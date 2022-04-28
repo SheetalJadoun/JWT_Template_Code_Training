@@ -61,5 +61,9 @@ public class Controller
         }
         return "Error Occurs";
     }
+    public String newAdded()
+    {
+        return "added";
+    }
 
 }
