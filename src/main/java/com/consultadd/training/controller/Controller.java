@@ -65,5 +65,9 @@ public class Controller
     {
         return "added";
     }
+    public String second()
+    {
+        return "second";
+    }
 
 }
