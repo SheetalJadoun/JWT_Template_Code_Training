@@ -62,4 +62,9 @@ public class Controller
         return "Error Occurs";
     }
 
+    public String demo()
+    {
+        return "demo";
+    }
+
 }
